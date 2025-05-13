@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="1" time="8.053" timestamp="2025-05-13T10:41:53.785089+05:30" hostname="CHANDRU"><testcase classname="test_demopytest" name="test_Open" time="7.810" /></testsuite></testsuites>
